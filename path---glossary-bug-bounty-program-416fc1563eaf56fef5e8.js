@@ -1,0 +1,2 @@
+webpackJsonp([57477116513937],{656:function(t,o){t.exports={data:{markdownRemark:{html:"<p>A bug bounty offers monetary incentives for vulnerabilities and invites submissions from hackers.</p>",frontmatter:{path:"/glossary/bug-bounty-program",title:"Bug Bounty Program"}}},pathContext:{}}}});
+//# sourceMappingURL=path---glossary-bug-bounty-program-416fc1563eaf56fef5e8.js.map

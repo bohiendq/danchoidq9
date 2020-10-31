@@ -1,0 +1,2 @@
+webpackJsonp([0x9f3cfeab83bb],{665:function(t,a){t.exports={data:{markdownRemark:{html:"<p>An international standard describing vulnerability coordination.</p>",frontmatter:{path:"/glossary/iso-29147",title:"ISO 29147"}}},pathContext:{}}}});
+//# sourceMappingURL=path---glossary-iso-29147-c48bae98d5d02218f439.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([0xed7eb22ba598],{654:function(t,a){t.exports={data:{markdownRemark:{html:'<p>A <a href="/programs/bounty-tables.html">bounty table</a> illustrates how much an organization is willing to pay for various bugs, helps set expectations for hackers, and gives the bug bounty team a guideline to ensure fair and consistent reward amounts.</p>',frontmatter:{path:"/glossary/bounty-table",title:"Bounty Table"}}},pathContext:{}}}});
+//# sourceMappingURL=path---glossary-bounty-table-0c962338306862200ad0.js.map
